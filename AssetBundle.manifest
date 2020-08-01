@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4156380267
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: electriccooker
+      Dependencies: {}
+    Info_1:
+      Name: fabo
+      Dependencies: {}
+    Info_2:
+      Name: obd
+      Dependencies: {}
+    Info_3:
+      Name: daulau
+      Dependencies: {}
+    Info_4:
+      Name: tobi3d
+      Dependencies: {}
+    Info_5:
+      Name: wukongtext
+      Dependencies: {}
+    Info_6:
+      Name: wukonglogo
+      Dependencies: {}
+    Info_7:
+      Name: zune
+      Dependencies: {}
